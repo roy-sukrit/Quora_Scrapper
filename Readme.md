@@ -1,4 +1,4 @@
-# Quora-Scrapper 
+# Quora-Scrapper 🔥
 
 ## This Project Scrapes all the answers from a given profile and stores it in a CSV File. 
 
